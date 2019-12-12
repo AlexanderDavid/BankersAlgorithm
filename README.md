@@ -1,6 +1,6 @@
 # Bankers Algorithm
 Bankers Algorithm implemented in Python 3 with a Flask REST backend and an HTML/Bootstrap/JS front end.
-The front end is hosted on Heroku at https://bankers.alexday.me. 
+The front end is hosted on Heroku at http://bankers.alexday.me. 
 
 ## Usage
 This was a project for the Operating Systems class at Clarion. This project had a specific input file format
